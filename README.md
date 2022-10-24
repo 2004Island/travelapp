@@ -1,10 +1,18 @@
 # Travel App
 
-Install all standard node modules and webpack before running this script.
+Install all standard node modules and webpack before running this script by using the following commmands
+
+cd into the travelapp directory
+
+then run npm install 
+then run npm install cors
+then run npm install express
+then run npm install body-parser
+then run npm install --save-dev webpack 
 
 Then use npm run start to use webpack to create dist folder along with main.js file
 
-Then use sass src/client/styles/index.scss dist/index.css to convert the scss file to css for the page 
+Then use sudo sass src/client/styles/index.scss dist/index.css to convert the scss file to css for the page 
 
 Then use npm run start-server to activate server.js, go to localhost:4202 to see the page run
 
