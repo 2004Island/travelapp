@@ -5,9 +5,13 @@ Install all standard node modules and webpack before running this script by usin
 cd into the travelapp directory
 
 then run npm install 
+
 then run npm install cors
+
 then run npm install express
+
 then run npm install body-parser
+
 then run npm install --save-dev webpack 
 
 Then use npm run start to use webpack to create dist folder along with main.js file
