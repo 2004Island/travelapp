@@ -118,3 +118,4 @@ const updateUI = async () => {
 }
 
 export  { queueData }
+export { getRandomInt }
