@@ -4,21 +4,21 @@ Install all standard node modules and webpack before running this script by usin
 
 cd into the travelapp directory
 
-then run npm install 
+then {run npm install}
 
-then run npm install cors
+then {run npm install cors}
 
-then run npm install express
+then {run npm install express}
 
-then run npm install body-parser
+then {run npm install body-parser}
 
-then run npm install --save-dev webpack 
+then {run npm install --save-dev webpack}
 
-Then use npm run start to use webpack to create dist folder along with main.js file
+Then use {npm run start} to use webpack to create dist folder along with main.js file
 
-Then use sudo sass src/client/styles/index.scss dist/index.css to convert the scss file to css for the page 
+Then use {sudo sass src/client/styles/index.scss dist/index.css} to convert the scss file to css for the page 
 
-Then use npm run start-server to activate server.js, go to localhost:4202 to see the page run
+Then use {npm run start-server} to activate server.js, go to localhost:4202 to see the page run
 
 When inputting addresses and dates and pressing the book it button you should see the post request in terminal. 
 
