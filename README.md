@@ -2,6 +2,8 @@
 
 Install all standard node modules and webpack before running this script by using the following commmands
 
+copy paste the commands that are within the brackets {}
+
 cd into the travelapp directory
 
 then {run npm install}
