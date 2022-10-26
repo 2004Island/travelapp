@@ -18,6 +18,8 @@ function getRandomInt(max) {
 
 const keyvars  = {}
 
+const serverlink = "http://localhost:4202/all_data"
+
 /* Function called by event listener */
 
 function queueData(){
@@ -119,3 +121,4 @@ const updateUI = async () => {
 
 export  { queueData }
 export { getRandomInt }
+export { serverlink }
