@@ -22,6 +22,8 @@ Then use {sudo sass src/client/styles/index.scss dist/index.css} to convert the 
 
 Then use {npm run start-server} to activate server.js, go to localhost:4202 to see the page run
 
+Then use {npm run test} to use jest to run tests
+
 When inputting addresses and dates and pressing the book it button you should see the post request in terminal. 
 
 The background header image will update to show an image of the state/region the address is in. (testing with the example address will post images of Wyoming)
