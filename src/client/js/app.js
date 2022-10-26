@@ -2,7 +2,7 @@
 import _ from "lodash";
 
 // API key for weatherbit
-const key1 = '4bfa589976d946e894128f290f8da4a5';
+const key1 = '0c64412472bb4859866de351ed9ba62c';
 
 // API key for pixabay
 const key2 = '30063748-4f1428a79e0c061ebc19a87b3'
